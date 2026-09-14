@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 :root {
   --burgundy: #6d1a36;
   --burgundy-light: #9c2c52;
